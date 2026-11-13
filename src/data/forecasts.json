@@ -1,0 +1,354 @@
+[
+  {
+    "id": "seattle",
+    "name": "Seattle",
+    "region": "Washington",
+    "current": {
+      "celsius": 9,
+      "feelsLike": 7,
+      "condition": "Rain",
+      "humidity": 88,
+      "windKph": 14
+    },
+    "hourly": [
+      {
+        "hour": 6,
+        "celsius": 7,
+        "condition": "Rain"
+      },
+      {
+        "hour": 9,
+        "celsius": 8,
+        "condition": "Rain"
+      },
+      {
+        "hour": 12,
+        "celsius": 9,
+        "condition": "Rain"
+      },
+      {
+        "hour": 15,
+        "celsius": 10,
+        "condition": "Cloudy"
+      },
+      {
+        "hour": 18,
+        "celsius": 9,
+        "condition": "Cloudy"
+      },
+      {
+        "hour": 21,
+        "celsius": 8,
+        "condition": "Rain"
+      }
+    ],
+    "daily": [
+      {
+        "day": "Mon",
+        "high": 10,
+        "low": 5,
+        "condition": "Rain"
+      },
+      {
+        "day": "Tue",
+        "high": 11,
+        "low": 6,
+        "condition": "Cloudy"
+      },
+      {
+        "day": "Wed",
+        "high": 9,
+        "low": 4,
+        "condition": "Rain"
+      },
+      {
+        "day": "Thu",
+        "high": 12,
+        "low": 7,
+        "condition": "Partly cloudy"
+      },
+      {
+        "day": "Fri",
+        "high": 11,
+        "low": 6,
+        "condition": "Rain"
+      },
+      {
+        "day": "Sat",
+        "high": 10,
+        "low": 5,
+        "condition": "Rain"
+      },
+      {
+        "day": "Sun",
+        "high": 9,
+        "low": 4,
+        "condition": "Cloudy"
+      }
+    ]
+  },
+  {
+    "id": "spokane",
+    "name": "Spokane",
+    "region": "Washington",
+    "current": {
+      "celsius": 2,
+      "feelsLike": -2,
+      "condition": "Cloudy",
+      "humidity": 74,
+      "windKph": 18
+    },
+    "hourly": [
+      {
+        "hour": 6,
+        "celsius": -1,
+        "condition": "Cloudy"
+      },
+      {
+        "hour": 9,
+        "celsius": 1,
+        "condition": "Cloudy"
+      },
+      {
+        "hour": 12,
+        "celsius": 3,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 15,
+        "celsius": 4,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 18,
+        "celsius": 2,
+        "condition": "Cloudy"
+      },
+      {
+        "hour": 21,
+        "celsius": 0,
+        "condition": "Snow"
+      }
+    ],
+    "daily": [
+      {
+        "day": "Mon",
+        "high": 4,
+        "low": -3,
+        "condition": "Cloudy"
+      },
+      {
+        "day": "Tue",
+        "high": 3,
+        "low": -4,
+        "condition": "Snow"
+      },
+      {
+        "day": "Wed",
+        "high": 1,
+        "low": -6,
+        "condition": "Snow"
+      },
+      {
+        "day": "Thu",
+        "high": 2,
+        "low": -5,
+        "condition": "Cloudy"
+      },
+      {
+        "day": "Fri",
+        "high": 5,
+        "low": -2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "day": "Sat",
+        "high": 6,
+        "low": -1,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Sun",
+        "high": 3,
+        "low": -3,
+        "condition": "Cloudy"
+      }
+    ]
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "region": "Arizona",
+    "current": {
+      "celsius": 24,
+      "feelsLike": 23,
+      "condition": "Sunny",
+      "humidity": 21,
+      "windKph": 9
+    },
+    "hourly": [
+      {
+        "hour": 6,
+        "celsius": 14,
+        "condition": "Sunny"
+      },
+      {
+        "hour": 9,
+        "celsius": 19,
+        "condition": "Sunny"
+      },
+      {
+        "hour": 12,
+        "celsius": 24,
+        "condition": "Sunny"
+      },
+      {
+        "hour": 15,
+        "celsius": 26,
+        "condition": "Sunny"
+      },
+      {
+        "hour": 18,
+        "celsius": 22,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 21,
+        "celsius": 18,
+        "condition": "Sunny"
+      }
+    ],
+    "daily": [
+      {
+        "day": "Mon",
+        "high": 26,
+        "low": 13,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Tue",
+        "high": 27,
+        "low": 14,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Wed",
+        "high": 25,
+        "low": 12,
+        "condition": "Partly cloudy"
+      },
+      {
+        "day": "Thu",
+        "high": 24,
+        "low": 12,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Fri",
+        "high": 26,
+        "low": 13,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Sat",
+        "high": 28,
+        "low": 15,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Sun",
+        "high": 27,
+        "low": 14,
+        "condition": "Partly cloudy"
+      }
+    ]
+  },
+  {
+    "id": "honolulu",
+    "name": "Honolulu",
+    "region": "Hawaii",
+    "current": {
+      "celsius": 27,
+      "feelsLike": 29,
+      "condition": "Partly cloudy",
+      "humidity": 69,
+      "windKph": 22
+    },
+    "hourly": [
+      {
+        "hour": 6,
+        "celsius": 23,
+        "condition": "Showers"
+      },
+      {
+        "hour": 9,
+        "celsius": 25,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 12,
+        "celsius": 27,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 15,
+        "celsius": 28,
+        "condition": "Sunny"
+      },
+      {
+        "hour": 18,
+        "celsius": 26,
+        "condition": "Partly cloudy"
+      },
+      {
+        "hour": 21,
+        "celsius": 24,
+        "condition": "Showers"
+      }
+    ],
+    "daily": [
+      {
+        "day": "Mon",
+        "high": 28,
+        "low": 22,
+        "condition": "Partly cloudy"
+      },
+      {
+        "day": "Tue",
+        "high": 28,
+        "low": 22,
+        "condition": "Showers"
+      },
+      {
+        "day": "Wed",
+        "high": 27,
+        "low": 21,
+        "condition": "Showers"
+      },
+      {
+        "day": "Thu",
+        "high": 29,
+        "low": 22,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Fri",
+        "high": 28,
+        "low": 23,
+        "condition": "Partly cloudy"
+      },
+      {
+        "day": "Sat",
+        "high": 27,
+        "low": 22,
+        "condition": "Showers"
+      },
+      {
+        "day": "Sun",
+        "high": 28,
+        "low": 21,
+        "condition": "Sunny"
+      }
+    ]
+  }
+]
